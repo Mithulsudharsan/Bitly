@@ -22,6 +22,7 @@ Docker (optional for containerization)
 Clone the Repository
 
 git clone https://github.com/yourusername/bitly_project.git
+
 cd bitly_project
 
 ## Setup Environment
@@ -32,7 +33,9 @@ Open your command line or terminal and Navigate to your project directory where 
 Run the virtual environment creation command
 
 python -m venv .venv
+
 source .venv/bin/activate (mac os and linux)
+
 .venv\Scripts\activate.bat (Windows)
 
 ## Install Dependencies
@@ -57,6 +60,7 @@ python3 src/main.py
 ## To Run MAIN.PY Application
 ## Set the FLASK_APP Environment Variable
 export FLASK_APP=path_to_your_app.py (Mac or Linux)
+
 set FLASK_APP=path_to_your_app.py (windows)
 
 ## Update the file Path
@@ -64,6 +68,7 @@ It is important to update the your path to the JSON,CSV location
 
 ## To Run MAIN.PY Application 
 flask run 
+
 ## Access the Application
 http://localhost:5001
 
