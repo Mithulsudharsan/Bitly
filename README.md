@@ -38,7 +38,18 @@ source .venv/bin/activate (mac os and linux)
 ## Install Dependencies
 pip install -r requirements.txt
 
+## Data Folder
+
+Decode.json and encodes.csv are the 2 data files we are using for opperations
+
+## Log_Files
+
+All the Logs related to the application as well as testing status is been generated to the respective files 
+
+
 ## THE PROJECT FILE HAS 2 MAIN.PY THAT IS (MAIN CODE.PY) IS RETURN THE OUTPUT TO THE TERMINAL IN JSON FORMAT  (MAIN.PY) IS BUILD USING SIMPLE FLASK FRAMEWORK TO VISUALIZE SAME JSON OUTPUT IN SIMPLE WEB PAGE TO HAVE A GUI VIEW
+
+
 
 ## Running the MAIN CODE.PY To see answer in Terminal
 python3 src/main.py
@@ -56,17 +67,6 @@ flask run
 ## Access the Application
 http://localhost:5001
 
-## Cloning and Running from Docker Repository
-
-docker pull mithulsudharsan/bitly:latest
-
-## Run the Docker Image
-docker run -p 5001:5001 --name bitly 
-
-
-## Data Folder
-
-Decode.json and encodes.csv are the 2 data files we are using for opperations
 
 ## Testing
 
@@ -76,13 +76,6 @@ python -m unittest tests/test_main.py
 
 This command runs all tests defined in test_main.py and outputs the test results.
 
-## Log_Files
-
-All the Logs related to the application as well as testing status is been generated to the respective files 
-
-## Authors
-
-Mithul Sudharsan Ravikumar
 
 ## Docker Repo
 
@@ -107,6 +100,11 @@ Stop and Remove the Container
 
 •	docker stop bitly_project_instance
 •	docker rm bitly_project_instance
+
+
+## Authors
+
+Mithul Sudharsan Ravikumar
 
 ## COLAB Link 
 
