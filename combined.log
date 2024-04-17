@@ -1,0 +1,4 @@
+2024-04-17 09:57:29 [INFO] - Output of src/main code.py:
+
+2024-04-17 09:57:29 [ERROR] - Execution of tests/test.py failed:
+Command '['python', 'tests/test.py']' returned non-zero exit status 2.

@@ -1,0 +1,183 @@
+2024-04-16 15:22:41 - INFO - Data successfully loaded from files.
+2024-04-16 15:22:41 - INFO - Data filtered and mapped successfully.
+2024-04-16 15:23:52 - INFO - Data successfully loaded from files.
+2024-04-16 15:23:53 - INFO - Data filtered and mapped successfully.
+2024-04-16 15:25:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-16 15:25:39 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 15:25:39 - INFO -  * Restarting with stat
+2024-04-16 15:25:39 - WARNING -  * Debugger is active!
+2024-04-16 15:25:39 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 15:27:36 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 15:27:36 - INFO -  * Restarting with stat
+2024-04-16 15:27:37 - WARNING -  * Debugger is active!
+2024-04-16 15:27:37 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 15:45:42 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-16 15:45:42 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 15:45:42 - INFO -  * Restarting with stat
+2024-04-16 15:45:42 - WARNING -  * Debugger is active!
+2024-04-16 15:45:42 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:33:37 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-16 16:33:37 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 16:33:37 - INFO -  * Restarting with stat
+2024-04-16 16:33:38 - WARNING -  * Debugger is active!
+2024-04-16 16:33:38 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:33:48 - INFO - Data successfully loaded from files.
+2024-04-16 16:33:48 - INFO - Data filtered and mapped successfully.
+2024-04-16 19:54:43 - INFO - Data successfully loaded from files.
+2024-04-16 19:54:43 - INFO - Data filtered and mapped successfully.
+2024-04-16 22:13:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.173:5001
+2024-04-16 22:13:33 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 22:13:33 - INFO -  * Restarting with stat
+2024-04-16 22:13:33 - WARNING -  * Debugger is active!
+2024-04-16 22:13:33 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 22:13:48 - INFO - data loaded
+2024-04-16 22:13:48 - INFO - 192.168.0.173 - - [16/Apr/2024 22:13:48] "GET / HTTP/1.1" 200 -
+2024-04-16 22:13:49 - INFO - 192.168.0.173 - - [16/Apr/2024 22:13:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-16 22:14:37 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 22:14:37 - INFO -  * Restarting with stat
+2024-04-16 22:14:38 - WARNING -  * Debugger is active!
+2024-04-16 22:14:38 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 22:14:47 - INFO - data loaded
+2024-04-16 22:14:48 - INFO - 192.168.0.173 - - [16/Apr/2024 22:14:48] "GET / HTTP/1.1" 200 -
+2024-04-16 22:15:33 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 22:15:33 - INFO -  * Restarting with stat
+2024-04-16 22:15:34 - WARNING -  * Debugger is active!
+2024-04-16 22:15:34 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 09:40:13 - INFO - Data successfully loaded from files.
+2024-04-17 09:40:13 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:42:44 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 09:42:44 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 09:42:44 - INFO -  * Restarting with stat
+2024-04-17 09:42:44 - WARNING -  * Debugger is active!
+2024-04-17 09:42:44 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 09:45:29 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main code.py', reloading
+2024-04-17 09:45:29 - INFO -  * Restarting with stat
+2024-04-17 09:45:30 - WARNING -  * Debugger is active!
+2024-04-17 09:45:30 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 09:45:41 - INFO - Data successfully loaded from files.
+2024-04-17 09:45:41 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:45:41 - ERROR - An error occurred: name 'count_clicks' is not defined
+2024-04-17 09:45:58 - INFO - Data successfully loaded from files.
+2024-04-17 09:45:58 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:46:06 - INFO - Data successfully loaded from files.
+2024-04-17 09:46:06 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:46:06 - ERROR - An error occurred: name 'count_clicks' is not defined
+2024-04-17 09:46:55 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 09:46:55 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 09:46:55 - INFO -  * Restarting with stat
+2024-04-17 09:46:56 - WARNING -  * Debugger is active!
+2024-04-17 09:46:56 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 09:47:09 - INFO - data loaded
+2024-04-17 09:47:09 - INFO - 127.0.0.1 - - [17/Apr/2024 09:47:09] "GET / HTTP/1.1" 200 -
+2024-04-17 09:49:26 - ERROR - Failed to load data: [Errno 2] No such file or directory: '/path/to/encodes.csv'
+2024-04-17 09:49:26 - ERROR - An error occurred: [Errno 2] No such file or directory: '/path/to/encodes.csv'
+2024-04-17 09:50:13 - INFO - Data successfully loaded from files.
+2024-04-17 09:50:13 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:51:42 - INFO - Data successfully loaded from files.
+2024-04-17 09:51:42 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:51:42 - ERROR - An error occurred: name 'count_clicks' is not defined
+2024-04-17 09:56:52 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 09:56:52 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 09:56:52 - INFO -  * Restarting with stat
+2024-04-17 09:56:53 - WARNING -  * Debugger is active!
+2024-04-17 09:56:53 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 09:57:29 - INFO - Data successfully loaded from files.
+2024-04-17 09:57:29 - INFO - Data filtered and mapped successfully.
+2024-04-17 09:57:29 - ERROR - An error occurred: name 'count_clicks' is not defined
+2024-04-17 10:00:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:00:53 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:00:53 - INFO -  * Restarting with stat
+2024-04-17 10:00:54 - WARNING -  * Debugger is active!
+2024-04-17 10:00:54 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:01:07 - INFO - data loaded
+2024-04-17 10:01:07 - INFO - 127.0.0.1 - - [17/Apr/2024 10:01:07] "GET / HTTP/1.1" 200 -
+2024-04-17 10:01:08 - INFO - data loaded
+2024-04-17 10:01:08 - INFO - 127.0.0.1 - - [17/Apr/2024 10:01:08] "GET / HTTP/1.1" 200 -
+2024-04-17 10:01:08 - INFO - data loaded
+2024-04-17 10:01:08 - INFO - 127.0.0.1 - - [17/Apr/2024 10:01:08] "GET / HTTP/1.1" 200 -
+2024-04-17 10:05:43 - INFO - Data successfully loaded from files.
+2024-04-17 10:05:43 - INFO - Data filtered and mapped successfully.
+2024-04-17 10:05:55 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:05:55 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:05:55 - INFO -  * Restarting with stat
+2024-04-17 10:05:56 - WARNING -  * Debugger is active!
+2024-04-17 10:05:56 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:06:11 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:06:11 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:06:11 - INFO -  * Restarting with stat
+2024-04-17 10:06:11 - WARNING -  * Debugger is active!
+2024-04-17 10:06:11 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:07:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:07:04 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:07:04 - INFO -  * Restarting with stat
+2024-04-17 10:07:05 - WARNING -  * Debugger is active!
+2024-04-17 10:07:05 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:07:18 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:07:18 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:07:18 - INFO -  * Restarting with stat
+2024-04-17 10:07:18 - WARNING -  * Debugger is active!
+2024-04-17 10:07:18 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:07:51 - INFO - data loaded
+2024-04-17 10:07:51 - INFO - 127.0.0.1 - - [17/Apr/2024 10:07:51] "GET / HTTP/1.1" 200 -
+2024-04-17 10:19:46 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 10:19:46 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 10:19:46 - INFO -  * Restarting with stat
+2024-04-17 10:19:46 - WARNING -  * Debugger is active!
+2024-04-17 10:19:46 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 10:20:11 - INFO - data loaded
+2024-04-17 10:20:11 - INFO - 127.0.0.1 - - [17/Apr/2024 10:20:11] "GET / HTTP/1.1" 200 -
+2024-04-17 11:36:43 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 11:36:43 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 11:36:43 - INFO -  * Restarting with stat
+2024-04-17 11:36:43 - WARNING -  * Debugger is active!
+2024-04-17 11:36:43 - INFO -  * Debugger PIN: 143-891-042
+2024-04-17 11:40:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-17 11:40:33 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-17 11:40:33 - INFO -  * Restarting with stat
+2024-04-17 11:40:34 - WARNING -  * Debugger is active!
+2024-04-17 11:40:34 - INFO -  * Debugger PIN: 143-891-042

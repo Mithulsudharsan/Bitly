@@ -1,0 +1,91 @@
+2024-04-16 15:46:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-16 15:46:53 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 15:46:53 - INFO -  * Restarting with stat
+2024-04-16 15:46:54 - WARNING -  * Debugger is active!
+2024-04-16 15:46:54 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 15:48:50 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 15:48:50 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 16:00:39 - ERROR - Failed to load data: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:00:39 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:01:02 - ERROR - Failed to load data: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:01:02 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:02:11 - ERROR - Failed to load data: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:02:11 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:03:00 - ERROR - Failed to load data: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:03:00 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:03:56 - ERROR - Failed to load data: [Errno 2] No such file or directory: 'data/decodes.json'
+2024-04-16 16:03:56 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/decodes.json'
+2024-04-16 16:04:14 - ERROR - Failed to load data: Expecting value: line 1 column 1 (char 0)
+2024-04-16 16:04:14 - ERROR - An error occurred: Expecting value: line 1 column 1 (char 0)
+2024-04-16 16:08:26 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.155.75.11:5001
+2024-04-16 16:08:26 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 16:08:26 - INFO -  * Restarting with stat
+2024-04-16 16:08:27 - WARNING -  * Debugger is active!
+2024-04-16 16:08:27 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:08:37 - ERROR - An error occurred: [Errno 2] No such file or directory: 'data/encodes.csv'
+2024-04-16 16:08:37 - INFO - 127.0.0.1 - - [16/Apr/2024 16:08:37] "GET / HTTP/1.1" 200 -
+2024-04-16 16:10:09 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 16:10:09 - INFO -  * Restarting with stat
+2024-04-16 16:10:10 - WARNING -  * Debugger is active!
+2024-04-16 16:10:10 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:10:15 - INFO - data loaded
+2024-04-16 16:10:15 - INFO - 127.0.0.1 - - [16/Apr/2024 16:10:15] "GET / HTTP/1.1" 200 -
+2024-04-16 16:10:17 - INFO - data loaded
+2024-04-16 16:10:17 - INFO - 127.0.0.1 - - [16/Apr/2024 16:10:17] "GET / HTTP/1.1" 200 -
+2024-04-16 16:12:09 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 16:12:09 - INFO -  * Restarting with stat
+2024-04-16 16:12:10 - WARNING -  * Debugger is active!
+2024-04-16 16:12:10 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:12:26 - INFO - data loaded
+2024-04-16 16:12:26 - INFO - 127.0.0.1 - - [16/Apr/2024 16:12:26] "GET / HTTP/1.1" 200 -
+2024-04-16 16:13:03 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 16:13:03 - INFO -  * Restarting with stat
+2024-04-16 16:13:04 - WARNING -  * Debugger is active!
+2024-04-16 16:13:04 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:13:11 - INFO - data loaded
+2024-04-16 16:13:11 - INFO - 127.0.0.1 - - [16/Apr/2024 16:13:11] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:01 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 16:22:01 - INFO -  * Restarting with stat
+2024-04-16 16:22:03 - WARNING -  * Debugger is active!
+2024-04-16 16:22:03 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:22:07 - INFO - data loaded
+2024-04-16 16:22:07 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:07] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:08 - INFO - data loaded
+2024-04-16 16:22:08 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:08] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:09 - INFO - data loaded
+2024-04-16 16:22:09 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:09] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:09 - INFO - data loaded
+2024-04-16 16:22:09 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:09] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:09 - INFO - data loaded
+2024-04-16 16:22:09 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:09] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:09 - INFO - data loaded
+2024-04-16 16:22:09 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:09] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:09 - INFO - data loaded
+2024-04-16 16:22:10 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:10] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:10 - INFO - data loaded
+2024-04-16 16:22:10 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:10] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:10 - INFO - data loaded
+2024-04-16 16:22:10 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:10] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:10 - INFO - data loaded
+2024-04-16 16:22:10 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:10] "GET / HTTP/1.1" 200 -
+2024-04-16 16:22:10 - INFO - data loaded
+2024-04-16 16:22:10 - INFO - 127.0.0.1 - - [16/Apr/2024 16:22:10] "GET / HTTP/1.1" 200 -
+2024-04-16 16:24:00 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main.py', reloading
+2024-04-16 16:24:00 - INFO -  * Restarting with stat
+2024-04-16 16:24:02 - WARNING -  * Debugger is active!
+2024-04-16 16:24:02 - INFO -  * Debugger PIN: 143-891-042
+2024-04-16 16:24:07 - INFO - data loaded
+2024-04-16 16:24:07 - INFO - 127.0.0.1 - - [16/Apr/2024 16:24:07] "GET / HTTP/1.1" 200 -
+2024-04-16 16:30:03 - INFO - data loaded
+2024-04-16 16:30:03 - INFO - 127.0.0.1 - - [16/Apr/2024 16:30:03] "GET / HTTP/1.1" 200 -
+2024-04-16 16:30:53 - INFO -  * Detected change in '/Users/mithulsudharsanravikumar/Downloads/bitly/src/main code.py', reloading
+2024-04-16 16:30:53 - INFO -  * Restarting with stat
+2024-04-16 16:30:54 - WARNING -  * Debugger is active!
+2024-04-16 16:30:54 - INFO -  * Debugger PIN: 143-891-042

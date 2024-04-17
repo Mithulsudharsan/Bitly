@@ -11,25 +11,62 @@ Extract specific parts from URLs.
 Filter data based on year.
 Aggregate and count occurrences.
 
-## Installation
 ## Prerequisites
 
 Python 3.6 or higher
 pip (Python package installer)
+Virtualenv (recommended)
+Docker (optional for containerization)
+
+## Installation
+Clone the Repository
+
+git clone https://github.com/yourusername/bitly_project.git
+cd bitly_project
 
 ## Setup Environment
 It is recommended to use a virtual environment to avoid conflicts with other packages and Python versions:
 
+## Creating a Virtual Environment
+Open your command line or terminal and Navigate to your project directory where you want the virtual environment to be created.
+Run the virtual environment creation command
+
+python -m venv .venv
+source .venv/bin/activate (mac os and linux)
+.venv\Scripts\activate.bat (Windows)
+
 ## Install Dependencies
 pip install -r requirements.txt
 
-## Running the Application
+## THE PROJECT FILE HAS 2 MAIN.PY THAT IS (MAIN CODE.PY) IS RETURN THE OUTPUT TO THE TERMINAL IN JSON FORMAT  (MAIN.PY) IS BUILD USING SIMPLE FLASK FRAMEWORK TO VISUALIZE SAME JSON OUTPUT IN SIMPLE WEB PAGE TO HAVE A GUI VIEW
 
-python src/main.py
+## Running the MAIN CODE.PY To see answer in Terminal
+python3 src/main.py
 
-## Data Files
+## To Run MAIN.PY Application
+## Set the FLASK_APP Environment Variable
+export FLASK_APP=path_to_your_app.py (Mac or Linux)
+set FLASK_APP=path_to_your_app.py (windows)
 
-Ensure that the data files encodes.csv and decodes.json are placed in the correct location
+## Update the file Path
+It is important to update the your path to the JSON,CSV location
+
+## To Run MAIN.PY Application 
+flask run 
+## Access the Application
+http://localhost:5001
+
+## Cloning and Running from Docker Repository
+
+docker pull mithulsudharsan/bitly:latest
+
+## Run the Docker Image
+docker run -p 5001:5001 --name bitly 
+
+
+## Data Folder
+
+Decode.json and encodes.csv are the 2 data files we are using for opperations
 
 ## Testing
 
@@ -39,6 +76,36 @@ python -m unittest tests/test_main.py
 
 This command runs all tests defined in test_main.py and outputs the test results.
 
+## Log_Files
+
+All the Logs related to the application as well as testing status is been generated to the respective files 
+
 ## Authors
 
 Mithul Sudharsan Ravikumar
+
+## Docker Repo
+
+https://hub.docker.com/r/mithulsudharsan/bitly/tags
+
+##  Run The application As Docker Image (Optional)
+
+Install Docker Desktop for Convenient Access
+
+Pull the Docker Image
+
+•	docker pull mithulsudharsan/bitly_project:latest
+
+Run the Docker Image
+•	docker run -p 5001:5001 --name bitly_project_instance yourusername/bitly_project:latest
+
+Access the Application
+
+•	http://localhost:5001
+
+Stop and Remove the Container
+
+•	docker stop bitly_project_instance
+•	docker rm bitly_project_instance
+
+
