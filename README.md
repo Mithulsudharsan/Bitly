@@ -7,15 +7,21 @@ This project processes and analyzes URL click data from CSV and JSON files. It s
 ## Features
 
 Load data from CSV and JSON.
+
 Extract specific parts from URLs.
+
 Filter data based on year.
+
 Aggregate and count occurrences.
 
 ## Prerequisites
 
 Python 3.6 or higher
+
 pip (Python package installer)
+
 Virtualenv (recommended)
+
 Docker (optional for containerization)
 
 ## Installation
