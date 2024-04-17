@@ -101,6 +101,7 @@ Pull the Docker Image
 •	docker pull mithulsudharsan/bitly_project:latest
 
 Run the Docker Image
+
 •	docker run -p 5001:5001 --name bitly_project_instance yourusername/bitly_project:latest
 
 Access the Application
@@ -110,6 +111,7 @@ Access the Application
 Stop and Remove the Container
 
 •	docker stop bitly_project_instance
+
 •	docker rm bitly_project_instance
 
 
