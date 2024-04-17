@@ -84,6 +84,10 @@ All the Logs related to the application as well as testing status is been genera
 
 Mithul Sudharsan Ravikumar
 
+## COLAB Link 
+
+https://colab.research.google.com/drive/1J-cT4rR-FSPadrCLLAunn2Ln7dVXoksD?authuser=2#scrollTo=ZiGxLN1-XHDS
+
 ## Docker Repo
 
 https://hub.docker.com/r/mithulsudharsan/bitly/tags
@@ -109,3 +113,31 @@ Stop and Remove the Container
 •	docker rm bitly_project_instance
 
 
+
+## Docker Repo
+
+https://hub.docker.com/r/mithulsudharsan/bitly/tags
+
+##  Run The application As Docker Image (Optional)
+
+Install Docker Desktop for Convenient Access
+
+Pull the Docker Image
+
+•	docker pull mithulsudharsan/bitly_project:latest
+
+Run the Docker Image
+•	docker run -p 5001:5001 --name bitly_project_instance yourusername/bitly_project:latest
+
+Access the Application
+
+•	http://localhost:5001
+
+Stop and Remove the Container
+
+•	docker stop bitly_project_instance
+•	docker rm bitly_project_instance
+
+## COLAB Link 
+
+https://colab.research.google.com/drive/1J-cT4rR-FSPadrCLLAunn2Ln7dVXoksD?authuser=2#scrollTo=ZiGxLN1-XHDS
